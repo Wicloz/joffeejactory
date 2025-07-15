@@ -3,8 +3,19 @@
 
 /saves/
 /journeymap/
+/usercache.json
+/usernamecache.json
 
 /local/
+/ESM/
+/options.txt
+/imgui.ini
+/rhino.local.properties
+/patchouli_data.json
 
 /.curseclient
 /mods/
+/resourcepacks/
+
+/kubejs/README.txt
+/kubejs/client_scripts/example.js
